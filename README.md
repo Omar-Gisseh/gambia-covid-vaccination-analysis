@@ -20,6 +20,12 @@ This report analyzes vaccination data across 7 regions to assess:
 - Geographic equity
 - Biological/public health implications
 
+## Key Insights
+- ~700,000 total doses administered (25.9% coverage)
+- Strong urban bias: Banjul & Kanifing = 66% of doses
+- Rural regions (Janjanbureh, Kuntaur) significantly lag
+- Peak vaccination rate in August 2021 (~8,000 doses/day)
+
 ## Recommendations
 - Mobile vaccination units for rural areas
 - Community campaigns in local languages
