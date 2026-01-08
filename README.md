@@ -3,8 +3,8 @@
 **Biology & Public Health Report**  
 An analysis of Gambia's COVID-19 vaccination rollout — trends, regional equity, and policy recommendations.
 
-![Daily Vaccination Trend](daily_full.png)
-![Regional Vaccination Distribution](regions_full.png)
+![Daily Vaccination Trend](daily_vaccinations_trend.png)
+![Regional Vaccination Distribution](regional_vaccination_distribution.png)
 
 ## Executive Summary
 - **Total doses administered**: ~700,000  
@@ -43,4 +43,4 @@ This report analyzes vaccination data across Gambia's 7 administrative regions t
 - **Tools**: Python (Pandas, Matplotlib, Seaborn)
 
 Built by **Omar Gisseh** | November 2025  
-[LinkedIn](your-link) | omar.gisseh@example.com
+Email: omar.gisseh8994@gmail.com
