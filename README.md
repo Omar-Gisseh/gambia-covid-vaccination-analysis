@@ -1,44 +1,46 @@
 # Gambia COVID-19 Vaccination Analysis (2021–2023)
 
 **Biology & Public Health Report**  
-Exploratory analysis of Gambia's COVID-19 vaccination rollout — trends, regional equity, and policy recommendations.
+An analysis of Gambia's COVID-19 vaccination rollout — trends, regional equity, and policy recommendations.
 
-![Daily Vaccination Trend](daily_vaccinations_trend.png)
+![Daily Vaccination Trend](daily_full.png)
+![Regional Vaccination Distribution](regions_full.png)
 
-![Regional Distribution](regional_vaccination_distribution.png)
+## Executive Summary
+- **Total doses administered**: ~700,000  
+- **Estimated population coverage**: **25.9%**  
+- **Strong urban bias**: Banjul & Kanifing received **66%** of all doses  
+- **Rural lag**: Janjanbureh region only ~155,000 doses  
+- **Peak daily rate**: ~8,000 doses (August 2021)
+
+> **Key Insight**: Urban vaccination was **4× faster** than rural — a critical public health disparity.
 
 ## Key Findings
-- ~700,000 total doses administered
-- 25.9% estimated population coverage
-- Strong urban bias: Banjul & Kanifing received 66% of doses
-- Rural regions (Janjanbureh, Kuntaur) significantly lag
-- Peak daily rate: ~8,000 doses (August 2021)
+| Metric                 | Value                          |
+|------------------------|--------------------------------|
+| Total Doses            | 700,000                        |
+| Population Coverage    | 25.9%                          |
+| Peak Daily Rate        | 8,000 doses (Aug 2021)         |
+| Top Region             | Banjul                         |
+| Lowest Region          | Janjanbureh (155,000 doses)    |
 
 ## Project Overview
-This report analyzes vaccination data across 7 regions to assess:
+This report analyzes vaccination data across Gambia's 7 administrative regions to assess:
 - Temporal rollout patterns
-- Geographic equity
-- Biological/public health implications
-
-## Key Insights
-- ~700,000 total doses administered (25.9% coverage)
-- Strong urban bias: Banjul & Kanifing = 66% of doses
-- Rural regions (Janjanbureh, Kuntaur) significantly lag
-- Peak vaccination rate in August 2021 (~8,000 doses/day)
+- Geographic equity (urban vs rural)
+- Biological and public health implications
 
 ## Recommendations
-- Mobile vaccination units for rural areas
-- Community campaigns in local languages
-- School & mosque partnerships to build trust
+1. **Mobile vaccination units** in rural regions (Janjanbureh, Kuntaur, Mansakonko)
+2. **Community campaigns** in local languages via radio and SMS
+3. **Partnerships** with schools and mosques to build trust
 
 ## Notebook
 - [Gambia_Vaccination_Analysis.ipynb](Gambia_Vaccination_Analysis.ipynb)
 
-## Data Source
-- Derived from Gambia MoH, WHO, and UNICEF reports (2021–2023)
+## Data & Methods
+- **Source**: Derived from Gambia Ministry of Health, WHO, and UNICEF reports (2021–2023)
+- **Tools**: Python (Pandas, Matplotlib, Seaborn)
 
-## Tools
-- Python (Pandas, Matplotlib, Seaborn)
-
-Built by Omar Gisseh | November 2025  
-Email: omar.gisseh8994@gmail.com
+Built by **Omar Gisseh** | November 2025  
+[LinkedIn](your-link) | omar.gisseh@example.com
